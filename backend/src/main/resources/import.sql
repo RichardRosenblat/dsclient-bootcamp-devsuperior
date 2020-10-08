@@ -1,4 +1,4 @@
-INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Silva', '12345678901', 6500.0, '1994-07-20T10:30:00Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Marcos Antonio', '85467921356', 6500.0, '1994-07-20T10:30:00Z', 2 );
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Ricardo Cruz', '89898989898', 6700.0, '1903-10-13T10:30:00Z', 3 );
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Marcelo Correia', '78945612312', 9800.0, '1899-12-20T10:30:00Z', 1);
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Florinda vaz', '65478932132', 2000.0, '2000-01-20T10:30:00Z', 10);
